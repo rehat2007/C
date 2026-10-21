@@ -1,4 +1,4 @@
-// 3. Write a program to convert Celsius (Centigrade) temperature to Fahrenheit.
+// Write a program to convert Celsius (Centigrade) temperature to Fahrenheit.
 
 #include <stdio.h>
 
