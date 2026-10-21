@@ -1,0 +1,4 @@
+# Compiled C programs
+*.exe
+*.o
+*.out
